@@ -20,9 +20,8 @@
 
 * **Frontend**: Web-based UI / Chatbot Interface
 * **Backend**: IBM Watsonx.ai + IBM Granite (LLM)
-* **NLP**: HuggingFace Transformers, TF-IDF (optional)
 * **Cloud**: IBM Cloud Lite, IBM Cloud Object Storage
-* **Languages**: Python (backend), JavaScript (frontend)
+
 
 ---
 
